@@ -14,6 +14,10 @@ STEPS TO MAKE YOUR OWN!
 
 ## Video Instructions
 
+
+Uploading emoji pack instructions.mp4…
+
+
 ***
 # Submitting your pack.
 > [!NOTE]  
