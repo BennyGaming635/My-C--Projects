@@ -6,6 +6,10 @@ Want to suggest a pack? Make a txt document and i'll consider adding it. Name th
 
 ***
 
+Link to learn about Emoji Pack Template - https://github.com/BennyGaming635/My-C--Projects/blob/main/EmojiTranslatePacks/TEMPLATE.md
+
+***
+
 # Pack Info
 | Pack Name   | Created by             | Installed by default? |
 |-------------|------------------------|-----------------------|
