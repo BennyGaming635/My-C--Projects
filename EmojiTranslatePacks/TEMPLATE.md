@@ -13,8 +13,7 @@ STEPS TO MAKE YOUR OWN!
 > Packs will be posted in the table if I'm told about and I've tested it. To make a Emoji Pack most compatible with the app please use the **Template**.
 
 ## Video Instructions
-
-<embed type="video/webm" src="https://github.com/BennyGaming635/My-C--Projects/blob/main/EmojiTranslatePacks/Video/emoji%20pack%20instructions.mp4" width="400" height="300">
+Watch this - https://github.com/BennyGaming635/My-C--Projects/blob/main/EmojiTranslatePacks/Video/emoji%20pack%20instructions.mp4
 
 ***
 # Submitting your pack.
