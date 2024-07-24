@@ -12,12 +12,11 @@ STEPS TO MAKE YOUR OWN!
 > [!TIP]  
 > Packs will be posted in the table if I'm told about and I've tested it. To make a Emoji Pack most compatible with the app please use the **Template**.
 
+## Video Instructions
+
 ***
 # Submitting your pack.
 > [!NOTE]  
 > **Ready to submit? Fill out this form - https://tally.so/r/wg4P4O. Thanks!
-
-***
-
 
 
