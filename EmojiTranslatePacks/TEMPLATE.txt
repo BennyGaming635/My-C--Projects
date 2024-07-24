@@ -1,0 +1,12 @@
+{ "emoji name 1", "emoji" }
+{ "emoji name 2", "emoji" }
+{ "emoji name 3", "emoji" }
+{ "emoji name 4", "emoji" }
+{ "emoji name 5", "emoji" }
+{ "emoji name 6", "emoji" }
+{ "emoji name 7", "emoji" }
+{ "emoji name 8", "emoji" }
+{ "emoji name 9", "emoji" }
+{ "emoji name 10", "emoji" }
+{ "emoji name 11", "emoji" }
+{ "emoji name 12", "emoji" }
