@@ -5,4 +5,7 @@ Cool apps Ben makes can be found in Releases and you can also download the sourc
 
 Have a look and you might find something **you** like!
 
-[<kbd> <br> EmojiTranslate Packs | About <br> </kbd>][https://github.com/BennyGaming635/My-C--Projects/blob/main/EmojiTranslatePacks/ABOUT.md]
+***
+
+# Want to read about EmojiTranslate Packs?
+Click this - https://github.com/BennyGaming635/My-C--Projects/blob/main/EmojiTranslatePacks/ABOUT.md
