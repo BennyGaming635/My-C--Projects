@@ -1,5 +1,0 @@
-            defaultEmojiDictionary["emoji name to translate to and from"] = "emoji";
-            defaultEmojiDictionary["emoji name to translate to and from"] = "emoji";
-            defaultEmojiDictionary["emoji name to translate to and from"] = "emoji";
-            defaultEmojiDictionary["emoji name to translate to and from"] = "emoji";
-            defaultEmojiDictionary["emoji name to translate to and from"] = "emoji";
