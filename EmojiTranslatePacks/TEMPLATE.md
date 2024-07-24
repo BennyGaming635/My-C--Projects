@@ -14,11 +14,7 @@ STEPS TO MAKE YOUR OWN!
 
 ## Video Instructions
 
-
-Uploading emoji pack instructions.mp4…
-
-
-
+<embed type="video/webm" src="https://github.com/BennyGaming635/My-C--Projects/blob/main/EmojiTranslatePacks/Video/emoji%20pack%20instructions.mp4" width="400" height="300">
 
 ***
 # Submitting your pack.
