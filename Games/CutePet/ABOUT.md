@@ -9,7 +9,7 @@
 |-----------|----------------------------------------------|------------------|
 | 1.0       | The game is now live!                        | WELCOMETOTHEGAME |
 | 1.01      | Fixed an error when trying to redeem a code. | Nope :)          |
-|           |                                              |                  |
+| 1.1       | Added updater which pulls from GitHub, mini-games and more. | AUGUSTUPDATE24 |
 
 ***
 
